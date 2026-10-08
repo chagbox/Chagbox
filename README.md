@@ -6,7 +6,7 @@
 
 ---
 
-## 👋 About Me
+## 👋 About Me 
 
 I'm Geoffrey Lawrence, a cybersecurity professional working across vulnerability assessment, security operations, technical support, and security solutions.
 
