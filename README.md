@@ -59,6 +59,26 @@ More projects are added here as I finish them.
 - Building detection and threat-hunting content from the techniques I research
 - Hands-on Active Directory and Windows security labs
 
+
+---
+
+## Certifications and training
+
+### Certifications
+- **RSA ID PLUS Certified Associate** — RSA Security (Jan 2026, expires Jan 2028)
+
+### Currently pursuing
+- CRTA (Certified Red Team Analyst)
+- HCCDP (Huawei Certified ICT Professional)
+
+### Platform and tool training
+- Seceon — Certificate for Professional Achievement
+- CrowdStrike — Falcon Next-Gen SIEM correlation rules, SIEM query language, query language fundamentals
+- 42Gears — UEM Essentials, SureMDM Foundation
+- OPSWAT — Introduction to Critical Infrastructure Protection
+- Coursera — Ethical Hacking Essentials
+- Udemy — Cisco BGP Masterclass
+- AccuKnox — Certificate of achievement
 ---
 
 ## Connect
