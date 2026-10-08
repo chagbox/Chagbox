@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./geoffrey-lawrence-banner.svg" alt="Geoffrey Lawrence — Cybersecurity | VAPT | SOC | Security Research" width="100%">
+     <img src="https://raw.githubusercontent.com/chagbox/chagbox/main/assets/assets/geoffrey-lawrence-banner.svg" alt="Geoffrey Lawrence — Cybersecurity | VAPT | SOC | Security Research" width="100%">
 </p>
 
 <p align="center">
